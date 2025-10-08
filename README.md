@@ -1,0 +1,2 @@
+# Talentajac
+create a data bundle site for TBS meaning Timothy bundle service and the country is ghana and the service should be mtn and airtel tigo
